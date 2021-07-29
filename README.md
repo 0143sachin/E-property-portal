@@ -1,10 +1,5 @@
 # E-property-portal using (HTML, CSS and JS)
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
